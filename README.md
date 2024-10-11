@@ -2,6 +2,12 @@ This is a lightweight [Micropub](https://indieweb.org/Micropub) server built wit
 
 It does not fully implement the Micropub spec and is only tested with iA Writer. Built specifically for me and my [blog](https://samwarnick.com).
 
+[devbox](https://www.jetify.com/docs/devbox/):
+```sh
+devbox run dev
+```
+
+native:
 ```sh
 bun install
 bun dev
